@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://tebox.top',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '每日必看', url: '/tag/每日必看' },
-  HEO_HERO_CATEGORY_2: { title: '每日任务', url: '/tag/每日任务' },
-  HEO_HERO_CATEGORY_3: { title: '空投记录', url: '/tag/空投记录' },
+  HEO_HERO_CATEGORY_1: { title: '每日必看', url: '/tag/Dailys' },
+  HEO_HERO_CATEGORY_2: { title: '每日任务', url: '/tag/Dailym' },
+  HEO_HERO_CATEGORY_3: { title: '空投记录', url: '/tag/Airdrec' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
